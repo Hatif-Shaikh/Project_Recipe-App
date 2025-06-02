@@ -1,1 +1,1 @@
-# Project_Recipe-App
+# This is JavaScript Project
